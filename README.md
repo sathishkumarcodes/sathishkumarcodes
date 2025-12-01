@@ -28,6 +28,39 @@ I'm a **Senior Software Engineer turned Product person**, focused on building an
 - 🤖 Experimenting with **AI agents** for code, portfolios, and personal reflection
 - ⚙️ I love turning messy, ambiguous problems into clear, shippable products
 
+## 🚀 What I’m Building
+
+### 🌟 OneGoodThingApp — Micro-journaling that actually sticks
+> **Gratitude journaling in under 10 seconds**
+
+[![OneGoodThingApp](https://img.shields.io/badge/Visit-OneGoodThingApp.com-blue?style=for-the-badge)](https://onegoodthingapp.com/)
+
+- Capture **one good thing** about your day in seconds  
+- Builds a timeline of moments you’d otherwise forget  
+- AI surfaces patterns in mood, behavior, and gratitude  
+- Built in **48 hours** using Lovable + Supabase, now evolving into a habit system
+
+---
+
+### 📈 Moona — Personal portfolio intelligence
+> **Understand your money like a pro**
+
+- Unified view across **stocks, crypto, retirement, and cash**
+- Benchmark performance (S&P 500, QQQ, custom indices)
+- Explore scenarios with **projections & simulations**
+- AI-generated insights like: _“Your risk exposure increased vs last month…”_
+- Built with **React, Supabase, FastAPI, Python**
+
+---
+
+### 🧠 RepoExplainer — AI that instantly “gets” your repo
+> **Your Staff-level architect for any codebase**
+
+- Upload a GitHub repo or ZIP → get a full **architecture summary**
+- File-by-file explanations and module overviews
+- Diagrams (system, ERD, flows) auto-generated from structure
+- API references and onboarding docs for new engineers
+- Powered by **Next.js, Supabase, OpenAI, Tree-sitter, embeddings**
 ---
 
 <!--
