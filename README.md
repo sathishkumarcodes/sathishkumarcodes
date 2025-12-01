@@ -60,9 +60,7 @@
 
 ## 🤖 AI Agents I’m Building
 
-I’m also working on a set of **AI agents** that plug into these products:
-
-- 🏗️ AI that helps people understand their life, money, and work better
+- 🏗️ AI agents that helps people understand their life, money, and work better
 ---
 
 
