@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Optional top banner -->
 <p align="center">
   <!-- Replace with your own banner image if you have one -->
@@ -9,12 +8,6 @@
 
 <p align="center">
   <b>Senior Software Engineer → Product Manager → AI Builder</b>
-</p>
-
-<p align="center">
-  <a href="https://onegoodthingapp.com/"><img src="https://img.shields.io/badge/OneGoodThingApp-Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Builder-Ship%20Fast-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -63,51 +56,38 @@ I'm a **Senior Software Engineer turned Product person**, focused on building an
 - Powered by **Next.js, Supabase, OpenAI, Tree-sitter, embeddings**
 ---
 
+## 🤖 AI Agents I’m Building
+
+I’m also working on a set of **AI agents** that plug into these products:
+
+- 🏗️ **Architecture Agent** – generates architecture docs, diagrams, and module maps  
+- 💼 **Portfolio Agent** – analyzes risk, diversification, and long-term projections  
+- ✍️ **Journaling Agent** – turns short entries into reflections and pattern insights  
+- 🔍 **Code Understanding Agent** – answers “where do I start?” for unfamiliar repos  
+
+Long-term goal: **AI that helps people understand their life, money, and work better.**
+---
+
+## 📊 GitHub Stats (Optional)
+
+> Replace `YOUR_USERNAME` below with your GitHub username.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumarcodes&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <!--
 **sathishkumarcodes/sathishkumarcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🚀 What I’m Building
+## 📫 Where to Reach Me
 
-### 🌟 OneGoodThingApp — Micro-journaling that actually sticks
-> **Gratitude journaling in under 10 seconds**
-
-[![OneGoodThingApp](https://img.shields.io/badge/Visit-OneGoodThingApp.com-blue?style=for-the-badge)](https://onegoodthingapp.com/)
-
-- Capture **one good thing** about your day in seconds  
-- Builds a timeline of moments you’d otherwise forget  
-- AI surfaces patterns in mood, behavior, and gratitude  
-- Built in **48 hours** using Lovable + Supabase, now evolving into a habit system
-
----
-
-### 📈 Moona — Personal portfolio intelligence
-> **Understand your money like a pro**
-
-- Unified view across **stocks, crypto, retirement, and cash**
-- Benchmark performance (S&P 500, QQQ, custom indices)
-- Explore scenarios with **projections & simulations**
-- AI-generated insights like: _“Your risk exposure increased vs last month…”_
-- Built with **React, Supabase, FastAPI, Python**
-
----
-
-### 🧠 RepoExplainer — AI that instantly “gets” your repo
-> **Your Staff-level architect for any codebase**
-
-- Upload a GitHub repo or ZIP → get a full **architecture summary**
-- File-by-file explanations and module overviews
-- Diagrams (system, ERD, flows) auto-generated from structure
-- API references and onboarding docs for new engineers
-- Powered by **Next.js, Supabase, OpenAI, Tree-sitter, embeddings**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>Email:</b> <a href="mailto:sathishbalajikumar@gmail.com">sathishbalajikumar@gmail.com</a>  
+  <br/>
+  <b>Website:</b> https://onegoodthingapp.com/  
+  <br/>
+  <b>LinkedIn:</b> https://www.linkedin.com/in/sbkumar1/
+</p>
