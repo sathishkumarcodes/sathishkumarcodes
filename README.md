@@ -21,6 +21,17 @@ I'm a **Senior Software Engineer turned Product person**, focused on building an
 - 🤖 Experimenting with **AI agents** for code, portfolios, and personal reflection
 - ⚙️ I love turning messy, ambiguous problems into clear, shippable products
 
+
+## 📫 Where to Reach Me
+
+<p>
+  <b>Email:</b> <a href="mailto:sathishbalajikumar@gmail.com">sathishbalajikumar@gmail.com</a>  
+  <br/>
+  <b>Website:</b> https://onegoodthingapp.com/  
+  <br/>
+  <b>LinkedIn:</b> https://www.linkedin.com/in/sbkumar1/
+</p>
+
 ## 🚀 What I’m Building
 
 ### 🌟 OneGoodThingApp — Micro-journaling that actually sticks
@@ -70,8 +81,6 @@ Long-term goal: **AI that helps people understand their life, money, and work be
 
 ## 📊 GitHub Stats (Optional)
 
-> Replace `YOUR_USERNAME` below with your GitHub username.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -79,15 +88,5 @@ Long-term goal: **AI that helps people understand their life, money, and work be
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumarcodes&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<!--
-**sathishkumarcodes/sathishkumarcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 📫 Where to Reach Me
 
-<p>
-  <b>Email:</b> <a href="mailto:sathishbalajikumar@gmail.com">sathishbalajikumar@gmail.com</a>  
-  <br/>
-  <b>Website:</b> https://onegoodthingapp.com/  
-  <br/>
-  <b>LinkedIn:</b> https://www.linkedin.com/in/sbkumar1/
-</p>
