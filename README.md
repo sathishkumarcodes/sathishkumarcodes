@@ -1,36 +1,27 @@
-<!-- Optional top banner -->
+<!-- Optional top banner (add your own image URL if you'd like) -->
 <p align="center">
-  <!-- Replace with your own banner image if you have one -->
-  <img src="https://your-banner-url" alt="Sathish | Product & AI Builder" />
+  <!-- Example placeholder; replace with your banner -->
+  <!-- <img src="https://your-banner-url" alt="Sathish | Product & AI Builder" /> -->
 </p>
 
 <h1 align="center">👋 Hi, I'm Sathish</h1>
-
 <p align="center">
   <b>Senior Software Engineer → Product Manager → AI Builder</b>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a **Senior Software Engineer turned Product person**, focused on building and shipping AI-powered products end-to-end — from idea, to architecture, to working software in users’ hands.
-
-- 🧠 Blend of **engineering depth**, **product strategy**, and **founder energy**
-- 🚀 Currently building **3 core products**: OneGoodThingApp, Moona, RepoExplainer
-- 🤖 Experimenting with **AI agents** for code, portfolios, and personal reflection
-- ⚙️ I love turning messy, ambiguous problems into clear, shippable products
-
-
-## 📫 Where to Reach Me
-
-<p>
-  <b>Email:</b> <a href="mailto:sathishbalajikumar@gmail.com">sathishbalajikumar@gmail.com</a>  
-  <br/>
-  <b>Website:</b> https://onegoodthingapp.com/  
-  <br/>
-  <b>LinkedIn:</b> https://www.linkedin.com/in/sbkumar1/
+<!-- Contact Links -->
+<p align="center">
+  <a href="mailto:sathishbalajikumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sathishbalajikumar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sbkumar1/">
+    <img src="https://img.shields.io/badge/LinkedIn-sbkumar1-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://onegoodthingapp.com/">
+    <img src="https://img.shields.io/badge/Website-OneGoodThingApp.com-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 ## 🚀 What I’m Building
 
@@ -71,15 +62,9 @@ I'm a **Senior Software Engineer turned Product person**, focused on building an
 
 I’m also working on a set of **AI agents** that plug into these products:
 
-- 🏗️ **Architecture Agent** – generates architecture docs, diagrams, and module maps  
-- 💼 **Portfolio Agent** – analyzes risk, diversification, and long-term projections  
-- ✍️ **Journaling Agent** – turns short entries into reflections and pattern insights  
-- 🔍 **Code Understanding Agent** – answers “where do I start?” for unfamiliar repos  
-
-Long-term goal: **AI that helps people understand their life, money, and work better.**
+- 🏗️ AI that helps people understand their life, money, and work better
 ---
 
-## 📊 GitHub Stats (Optional)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
