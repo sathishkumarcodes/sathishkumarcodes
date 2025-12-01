@@ -11,8 +11,8 @@
 
 <!-- Contact Links -->
 <p align="center">
-  <a href="mailto:sathishbalajikumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sathishbalajikumar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kumar.sathishbalaji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kumar.sathishbalaji%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sbkumar1/">
     <img src="https://img.shields.io/badge/LinkedIn-sbkumar1-blue?style=for-the-badge&logo=linkedin" />
