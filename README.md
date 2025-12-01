@@ -22,6 +22,22 @@
   </a>
 </p>
 
+## 🧑‍💻 About Me
+
+I'm a **Senior Software Engineer turned Product Builder**, focused on taking AI-powered products from **idea → architecture → prototype → users**.
+
+At work, I build **enterprise healthcare tech** — modernizing systems for medical claims, audit workflows, pricing engines, provider data, and government program rules. I partner with engineering, clinical, and operations teams to deliver:
+
+- High-accuracy claims audits  
+- Scalable claims & pricing platforms  
+- Better pricing logic for Medicare/Medicaid/commercial payers  
+- Modern UI/UX for legacy audit systems  
+
+Outside of work, I build fast and independently with founder energy:
+
+- 🚀 **OneGoodThingApp**, **Moona**, **RepoExplainer**  
+- 🤖 AI agents for code intelligence, journaling insights & portfolio analytics  
+- ⚙️ I turn ambiguous problems into clear, simple, shippable products
 
 ## 🚀 What I’m Building
 
