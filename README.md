@@ -76,8 +76,8 @@ Outside of work, I build fast and independently with founder energy:
 
 ## 🤖 AI Agents I’m Building
 
-- 🏗️ AI agents that helps people understand their life, money, and work better
----
+🏗️ AI agents that helps people understand their life, money, and work better
+- Groceries and Task Manager AI
 
 
 <p align="center">
