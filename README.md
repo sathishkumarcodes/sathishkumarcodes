@@ -34,24 +34,26 @@ Outside of work, I build independently with velocity and conviction: small teams
 
 ### 🌟 OneGoodThingApp — Micro-journaling that sticks
 
-A 10-second gratitude habit that people actually keep.
-AI surfaces patterns in your mood, memories, and behavior.
-Built in 48 hours using Lovable + Supabase.
+- A 10-second gratitude habit that people actually keep.
+- AI surfaces patterns in your mood, memories, and behavior.
+- Built using Lovable + Supabase.
 
 ### 📈 Moona — Personal portfolio intelligence
 
-A clear, unified view of your entire financial life.
-Benchmarks, projections, risk insights — the clarity retail investors never get.
-React + Supabase + FastAPI.
+- A clear, unified view of your entire financial life.
+- Benchmarks, projections, risk insights — the clarity retail investors never get.
+- Built using React + Supabase + FastAPI.
 
 ### 🧠 RepoExplainer — AI that instantly understands your codebase
 
-Drop in a repo → get architecture docs, diagrams, onboarding guides, and component explanations.
-Your on-demand Staff Engineer powered by Next.js + Supabase + OpenAI.
+- Drop in a repo → get architecture docs, diagrams, onboarding guides, and component explanations.
+- Your on-demand Staff Engineer powered by Next.js + Supabase + OpenAI.
 
 ### 🤖 AI Agents
 
 Purpose-built agents that help people understand their life.
+- Task and Grocery List Manager
+- Subscription Manager
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
