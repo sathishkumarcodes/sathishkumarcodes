@@ -24,61 +24,34 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Software Engineer turned Product Builder**, focused on taking AI-powered products from **idea → architecture → prototype → users**.
+Founder-minded Product Builder with a software engineering background. I take AI-powered products from zero → one: defining the problem, architecting the system, building fast, and shipping to real users.
 
-At work, I build **enterprise healthcare tech** — modernizing systems for medical claims, audit workflows, pricing engines, provider data, and government program rules. I partner with engineering, clinical, and operations teams to deliver:
+In my day job, I modernize enterprise healthcare platforms — claims audits, pricing engines, provider data, Medicare/Medicaid logic — partnering with engineering, clinical, and ops to deliver scalable products that actually move the business.
 
-- High-accuracy claims audits  
-- Scalable claims & pricing platforms  
-- Better pricing logic for Medicare/Medicaid/commercial payers  
-- Modern UI/UX for legacy audit systems  
-
-Outside of work, I build fast and independently with founder energy:
-
-- 🚀 **OneGoodThingApp**, **Moona**, **RepoExplainer**  
-- 🤖 AI agents for code intelligence, journaling insights & portfolio analytics  
-- ⚙️ I turn ambiguous problems into clear, simple, shippable products
+Outside of work, I build independently with velocity and conviction: small teams, fast loops, shipping over polishing, and product intuition leading the way.
 
 ## 🚀 What I’m Building
 
-### 🌟 OneGoodThingApp — Micro-journaling that actually sticks
-> **Gratitude journaling in under 10 seconds**
+### 🌟 OneGoodThingApp — Micro-journaling that sticks
 
-[![OneGoodThingApp](https://img.shields.io/badge/Visit-OneGoodThingApp.com-blue?style=for-the-badge)](https://onegoodthingapp.com/)
-
-- Capture **one good thing** about your day in seconds  
-- Builds a timeline of moments you’d otherwise forget  
-- AI surfaces patterns in mood, behavior, and gratitude  
-- Built in **48 hours** using Lovable + Supabase, now evolving into a habit system
-
----
+A 10-second gratitude habit that people actually keep.
+AI surfaces patterns in your mood, memories, and behavior.
+Built in 48 hours using Lovable + Supabase.
 
 ### 📈 Moona — Personal portfolio intelligence
-> **Understand your money like a pro**
 
-- Unified view across **stocks, crypto, retirement, and cash**
-- Benchmark performance (S&P 500, QQQ, custom indices)
-- Explore scenarios with **projections & simulations**
-- AI-generated insights like: _“Your risk exposure increased vs last month…”_
-- Built with **React, Supabase, FastAPI, Python**
+A clear, unified view of your entire financial life.
+Benchmarks, projections, risk insights — the clarity retail investors never get.
+React + Supabase + FastAPI.
 
----
+### 🧠 RepoExplainer — AI that instantly understands your codebase
 
-### 🧠 RepoExplainer — AI that instantly “gets” your repo
-> **Your Staff-level architect for any codebase**
+Drop in a repo → get architecture docs, diagrams, onboarding guides, and component explanations.
+Your on-demand Staff Engineer powered by Next.js + Supabase + OpenAI.
 
-- Upload a GitHub repo or ZIP → get a full **architecture summary**
-- File-by-file explanations and module overviews
-- Diagrams (system, ERD, flows) auto-generated from structure
-- API references and onboarding docs for new engineers
-- Powered by **Next.js, Supabase, OpenAI, Tree-sitter, embeddings**
----
+### 🤖 AI Agents
 
-## 🤖 AI Agents I’m Building
-
-🏗️ AI agents that helps people understand their life, money, and work better
-- Groceries and Task Manager AI
-
+Purpose-built agents that help people understand their life.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
