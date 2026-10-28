@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/sbkumar1/">
     <img src="https://img.shields.io/badge/LinkedIn-sbkumar1-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://onegoodthingapp.com/">
-    <img src="https://img.shields.io/badge/Website-OneGoodThingApp.com-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ## 🧑‍💻 About Me
