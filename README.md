@@ -1,60 +1,77 @@
-\<div align="center">
+<div align="center">
 
-# Hey, I'm Sathish 👋
+# Sathish Kumar
 
-**Software Engineer → Product Manager → AI Builder**
+**Engineer turned Product Manager. Still building things.**
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6284E8&center=true&vCenter=true&width=550&lines=I+turn+ideas+into+working+products.;Building+with+AI%2C+code%2C+and+curiosity.;Always+building.+Always+learning](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=18\&duration=3000\&pause=1000\&color=6284E8\&center=true\&vCenter=true\&width=550\&lines=I+turn+ideas+into+working+products.;Building+with+AI%2C+code%2C+and+curiosity.;Always+building.+Always+learning)." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=64748B&center=true&vCenter=true&width=540&lines=From+product+ideas+to+working+software;Exploring+AI%2C+agents+%26+automation;Build.+Break.+Learn.+Repeat." alt="Typing introduction" />
 
-\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbkumar1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/sathishkumarcodes?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:kumar.sathishbalaji@gmail.com)
 
-
-\</div>
-
----
-
-### 👨‍💻 About me
-
-I started as a software engineer, moved into product management, and never stopped coding.
-
-By day, I build enterprise healthcare platforms. Outside work, I'm experimenting with **AI agents, developer tools, finance, and pretty much anything I think could be a useful app.**
-
-I like taking ideas from **0 → 1** — from product thinking to architecture to working code.
-
-### 🚀 Things I've built & experimented with
-
-|     | Project                                                                                   | What it does                                           |
-| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 🌱  | **OneGoodThing**                                                                          | AI-powered micro-journaling                            |
-| 📈  | [**Moona**](https://github.com/sathishkumarcodes/Moona)                                   | Personal finance and portfolio intelligence            |
-| 🧠  | **RepoExplainer**                                                                         | AI-powered codebase analysis and documentation         |
-| 🎯  | **JobJury**                                                                               | Job-fit analysis and truth-preserving resume tailoring |
-| 🏡  | **AI Home Renovation Agent**                                                              | AI-assisted home and garden planning                   |
-| 📊  | **Stock Analysis App**                                                                    | Investment research and decision-support experiments   |
-| 🤖  | [**Simple AI Agents**](https://github.com/sathishkumarcodes/Simple-AI-Agents)             | Task, grocery, and subscription automation             |
-| ⚙️  | **AI Development Workflow**                                                               | Multi-agent software development experimentation       |
-| 📑  | **Investigator Brochure Builder**                                                         | AI-assisted clinical document workflows                |
-| ⏰   | [**Scheduled Claude Tasks**](https://github.com/sathishkumarcodes/Scheduled-claude-tasks) | Experiments with scheduled Claude automation           |
-| 🛠️ | [**Claude Skills**](https://github.com/sathishkumarcodes/claude-skills)                   | Reusable Claude workflow skills                        |
-
-*Some are working applications; others are prototypes or ongoing experiments.*
-
-### 🛠️ My toolbox
-
-\<div align="center">
-
-\<img src="[https://skillicons.dev/icons?i=python,ts,react,fastapi,dotnet,postgres,supabase,aws,docker,github&perline=10](https://skillicons.dev/icons?i=python,ts,react,fastapi,dotnet,postgres,supabase,aws,docker,github\&perline=10)" alt="Technology stack" />
-
-`LLMs` · `RAG` · `AI Agents` · `Product Strategy` · `0 → 1 Products`
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+### `01 / About`
 
-**Build it. Break it. Learn from it. Repeat.**
+I started out writing software, moved into product management, and never stopped coding.
 
-[Explore my GitHub](https://github.com/sathishkumarcodes?tab=repositories) · [Let's connect](https://www.linkedin.com/in/sbkumar1/)
+By day, I build enterprise healthcare platforms. Outside work, I'm usually experimenting with **AI agents, developer tools, finance, or an idea I couldn't leave alone.**
 
-\</div>
+I like the whole process — finding the problem, designing the system, building it, and seeing if anyone actually uses it.
+
+### `02 / Featured builds`
+
+**🎯 JobJury** · *Career tech*
+
+Know where you stand before you apply. Job-fit analysis, recruiter and hiring-manager perspectives, and resume tailoring grounded in your actual experience.
+
+**🌱 OneGoodThing** · *Consumer AI*
+
+A tiny daily journaling habit with AI-powered reflections. Because the little wins deserve some attention too.
+
+**📈 [Moona](https://github.com/sathishkumarcodes/Moona)** · *FinTech*
+
+Personal portfolio intelligence, financial projections, and scenario analysis without the spreadsheet gymnastics.
+
+**🧠 RepoExplainer** · *Developer tools*
+
+AI-assisted codebase exploration, architecture documentation, and repository understanding.
+
+### `03 / More from the lab`
+
+Smaller experiments, prototypes, and ideas I'm exploring.
+
+| Project | Focus |
+|:---|:---|
+| [Simple AI Agents](https://github.com/sathishkumarcodes/Simple-AI-Agents) | Everyday automation and agent workflows |
+| AI Development Workflow | Multi-agent software development |
+| Investigator Brochure Builder | AI-assisted clinical documentation |
+| AI Home Renovation Agent | Home and garden planning |
+| Stock Analysis App | Investment decision support |
+| [Scheduled Claude Tasks](https://github.com/sathishkumarcodes/Scheduled-claude-tasks) | Scheduled AI automation |
+| [Claude Skills](https://github.com/sathishkumarcodes/claude-skills) | Reusable AI workflows |
+
+### `04 / The toolbox`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,dotnet,postgres,supabase,aws,docker,github&perline=10" alt="Tech stack" />
+
+<br/>
+
+`LLMs` · `RAG` · `AI Agents` · `APIs` · `Product Strategy`
+
+</div>
+
+---
+
+<div align="center">
+
+**Curious by default. Builder by habit.**
+
+[Explore the code](https://github.com/sathishkumarcodes?tab=repositories) · [Let's connect](https://www.linkedin.com/in/sbkumar1/)
+
+</div>
