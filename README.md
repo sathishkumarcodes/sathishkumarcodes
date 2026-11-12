@@ -1,63 +1,60 @@
-<!-- Optional top banner (add your own image URL if you'd like) -->
-<p align="center">
-  <!-- Example placeholder; replace with your banner -->
-  <!-- <img src="https://your-banner-url" alt="Sathish | Product & AI Builder" /> -->
-</p>
+\<div align="center">
 
-<h1 align="center">👋 Hi, I'm Sathish</h1>
-<p align="center">
-  <b>Senior Software Engineer → Product Manager → AI Builder</b>
-</p>
+# Hey, I'm Sathish 👋
 
-<!-- Contact Links -->
-<p align="center">
-  <a href="mailto:kumar.sathishbalaji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumar.sathishbalaji%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sbkumar1/">
-    <img src="https://img.shields.io/badge/LinkedIn-sbkumar1-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+**Software Engineer → Product Manager → AI Builder**
 
-## 🧑‍💻 About Me
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6284E8&center=true&vCenter=true&width=550&lines=I+turn+ideas+into+working+products.;Building+with+AI%2C+code%2C+and+curiosity.;Always+building.+Always+learning](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=18\&duration=3000\&pause=1000\&color=6284E8\&center=true\&vCenter=true\&width=550\&lines=I+turn+ideas+into+working+products.;Building+with+AI%2C+code%2C+and+curiosity.;Always+building.+Always+learning)." alt="Typing animation" />
 
-Founder-minded Product Builder with a software engineering background. I take AI-powered products from zero → one: defining the problem, architecting the system, building fast, and shipping to real users.
-
-In my day job, I modernize enterprise healthcare platforms — claims audits, pricing engines, provider data, Medicare/Medicaid logic — partnering with engineering, clinical, and ops to deliver scalable products that actually move the business.
-
-Outside of work, I build independently with velocity and conviction: small teams, fast loops, shipping over polishing, and product intuition leading the way.
-
-## 🚀 What I’m Building
-
-### 🌟 OneGoodThingApp — Micro-journaling that sticks
-
-- A 10-second gratitude habit that people actually keep.
-- AI surfaces patterns in your mood, memories, and behavior.
-- Built using Lovable + Supabase.
-
-### 📈 Moona — Personal portfolio intelligence
-
-- A clear, unified view of your entire financial life.
-- Benchmarks, projections, risk insights — the clarity retail investors never get.
-- Built using React + Supabase + FastAPI.
-
-### 🧠 RepoExplainer — AI that instantly understands your codebase
-
-- Drop in a repo → get architecture docs, diagrams, onboarding guides, and component explanations.
-- Your on-demand Staff Engineer powered by Next.js + Supabase + OpenAI.
-
-### 🤖 AI Agents
-
-Purpose-built agents that help people understand their life.
-- Task and Grocery List Manager
-- Subscription Manager
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishkumarcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumarcodes&theme=tokyonight" alt="GitHub Streak" />
-</p>
+\
 
 
+\</div>
+
+---
+
+### 👨‍💻 About me
+
+I started as a software engineer, moved into product management, and never stopped coding.
+
+By day, I build enterprise healthcare platforms. Outside work, I'm experimenting with **AI agents, developer tools, finance, and pretty much anything I think could be a useful app.**
+
+I like taking ideas from **0 → 1** — from product thinking to architecture to working code.
+
+### 🚀 Things I've built & experimented with
+
+|     | Project                                                                                   | What it does                                           |
+| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 🌱  | **OneGoodThing**                                                                          | AI-powered micro-journaling                            |
+| 📈  | [**Moona**](https://github.com/sathishkumarcodes/Moona)                                   | Personal finance and portfolio intelligence            |
+| 🧠  | **RepoExplainer**                                                                         | AI-powered codebase analysis and documentation         |
+| 🎯  | **JobJury**                                                                               | Job-fit analysis and truth-preserving resume tailoring |
+| 🏡  | **AI Home Renovation Agent**                                                              | AI-assisted home and garden planning                   |
+| 📊  | **Stock Analysis App**                                                                    | Investment research and decision-support experiments   |
+| 🤖  | [**Simple AI Agents**](https://github.com/sathishkumarcodes/Simple-AI-Agents)             | Task, grocery, and subscription automation             |
+| ⚙️  | **AI Development Workflow**                                                               | Multi-agent software development experimentation       |
+| 📑  | **Investigator Brochure Builder**                                                         | AI-assisted clinical document workflows                |
+| ⏰   | [**Scheduled Claude Tasks**](https://github.com/sathishkumarcodes/Scheduled-claude-tasks) | Experiments with scheduled Claude automation           |
+| 🛠️ | [**Claude Skills**](https://github.com/sathishkumarcodes/claude-skills)                   | Reusable Claude workflow skills                        |
+
+*Some are working applications; others are prototypes or ongoing experiments.*
+
+### 🛠️ My toolbox
+
+\<div align="center">
+
+\<img src="[https://skillicons.dev/icons?i=python,ts,react,fastapi,dotnet,postgres,supabase,aws,docker,github&perline=10](https://skillicons.dev/icons?i=python,ts,react,fastapi,dotnet,postgres,supabase,aws,docker,github\&perline=10)" alt="Technology stack" />
+
+`LLMs` · `RAG` · `AI Agents` · `Product Strategy` · `0 → 1 Products`
+
+\</div>
+
+---
+
+\<div align="center">
+
+**Build it. Break it. Learn from it. Repeat.**
+
+[Explore my GitHub](https://github.com/sathishkumarcodes?tab=repositories) · [Let's connect](https://www.linkedin.com/in/sbkumar1/)
+
+\</div>
